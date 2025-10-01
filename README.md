@@ -1,5 +1,3 @@
-# Azure_ETL_ADF_Project
-End To End Azure Project.
 # Azure ETL ADF Project 🚀
 
 ## 📌 Project Overview
